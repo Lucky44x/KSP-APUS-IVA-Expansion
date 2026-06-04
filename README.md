@@ -15,7 +15,7 @@ Since I have modified parts to create a new part, this would be an invalid redis
 - The docking passthrough inside Cargo bays is funky, if it doesnt let you pass through, try snapping the other node to the cargo bay
 
 ### Dependencies
-This mod DEPENDS on [NearFutureProps](https://forum.kerbalspaceprogram.com/topic/166941-112x-near-future-props-prop-assets-for-iva-developers-august-13th/)
+This mod DEPENDS on [NearFutureProps](https://forum.kerbalspaceprogram.com/topic/166941-112x-near-future-props-prop-assets-for-iva-developers-august-13th/)   
 This mod DEPENDS on [FreeIVA](https://forum.kerbalspaceprogram.com/topic/210548-112-freeiva/)
 
 ### Installation
